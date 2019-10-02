@@ -1,3 +1,5 @@
+
+
 class SpeakersData {
   List<Speaker> speakers;
 
@@ -112,59 +114,5 @@ List<Speaker> speakers = [
     linkedinUrl: "https://linkedin.com/in/imthepk",
     twitterUrl: "https://twitter.com/imthepk",
   ),
-  Speaker(
-    speakerSession: "Machine Learning and AutoML on GCP",
-    speakerImage:
-        "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UozlnKuWKqwaGjT2U6ylLLyMtoByOnx-ctrRmn5A8kptjCS50E8EgQDSuxYg8chsldOmSLbHScKX0ERlngHvbRp5XVRyNuAUSIm_Hguq3THTisLLaU.UyKUL3gyFQsEAcmO",
-    speakerName: "Sathish V J",
-    speakerDesc: "Tech Architect, Investor, Tutor",
-    fbUrl: "https://facebook.com/imthepk",
-    githubUrl: "https://github.com/iampawan",
-    linkedinUrl: "https://linkedin.com/in/imthepk",
-    twitterUrl: "https://twitter.com/imthepk",
-  ),
-  Speaker(
-    speakerSession: "Top 5 from Firebase Summit '18",
-    speakerImage:
-        "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqZAYU9q0R5K2cq94DxU7ebiOMhilDlx5NzzsWWZ_oHxqcZV8H8j594rg_q_vyfTToA0BfScTHOHAj8uKf2OeF5MVqa_jmdjC9JO9-2TcPWjboxPf8.NN-XmkQxmHl1XyY_",
-    speakerName: "Timothy Jordan",
-    speakerDesc: "Sr. Staff Developer Advocate, Google",
-    fbUrl: "https://facebook.com/imthepk",
-    githubUrl: "https://github.com/iampawan",
-    linkedinUrl: "https://linkedin.com/in/imthepk",
-    twitterUrl: "https://twitter.com/imthepk",
-  ),
-  Speaker(
-    speakerSession: "Multiplayer Games with WebXR",
-    speakerImage:
-        "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXJ2Zkg0YUY1ZFJoMFFRbWlqdFE4MV9nNTdJR0dxUS1ubVJfbkN2Y1RaS3VoaUp2dWd3ejNmUmJRekFQaU5QNGhqd1F6cUtKQXpYeXJkemVyS2hUY1NzSWloMXFCNzQzdmpRVVVmU0Z4XzJZRDVZQXVBLnFHVllKVmc2MUVzQVZ5bVI",
-    speakerName: "Tanay Pant",
-    speakerDesc: "Web Developer Advocate, Mozilla Foundation",
-    fbUrl: "https://facebook.com/imthepk",
-    githubUrl: "https://github.com/iampawan",
-    linkedinUrl: "https://linkedin.com/in/imthepk",
-    twitterUrl: "https://twitter.com/imthepk",
-  ),
-  Speaker(
-    speakerSession: "Mobile Database Persistence",
-    speakerImage:
-        "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqEG002BsGCqZLZRFUGu9xo4IpGamz6gTqlWxWyME0s-n8gR7Rs0tM5R6mPMOCRYf5rAunWx0GQeXDUHPag_XWGApdekw.cks8tPlPy-TeucOT",
-    speakerName: "Eric Maxwell",
-    speakerDesc: "Software Developer, Big Nerd Ranch",
-    fbUrl: "https://facebook.com/imthepk",
-    githubUrl: "https://github.com/iampawan",
-    linkedinUrl: "https://linkedin.com/in/imthepk",
-    twitterUrl: "https://twitter.com/imthepk",
-  ),
-  Speaker(
-    speakerSession: "Progressive Experience Web Development",
-    speakerImage:
-        "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXBET0RKT0JBV195UjVuSDRKS3JEenphN2gzLW80WEdvenlGdkZhNGREUzFmQUk1RjJnR0N5eEJIdlBkOVhlLUdwalVSWXlxbXJ4VFA0QXRZdnB4WDllWFNpdmdiNy14Q0tLOENCeU41Yks4NF9vUVQ0LlVFY0RBeld0ZTd4OEtSUTg",
-    speakerName: "Yohan Totting",
-    speakerDesc: "Web Developer Advocate, Google",
-    fbUrl: "https://facebook.com/imthepk",
-    githubUrl: "https://github.com/iampawan",
-    linkedinUrl: "https://linkedin.com/in/imthepk",
-    twitterUrl: "https://twitter.com/imthepk",
-  ),
+
 ];
