@@ -60,6 +60,66 @@
       "github_url": "https://github.com/pareshmayani",
       "linkedin_url": "https://www.linkedin.com/in/pareshmayani/",
       "twitter_url": "https://twitter.com/pareshmayani"
+    },
+    {
+      "speaker_image": "https://gdgcusco.com/img/speakers/jose.png",
+      "speaker_name": "José Armando Chávez Alvarez",
+      "speaker_desc": "Soy bachiller en Ingeniería Electrónica, egresado de la Universidad Nacional de Ingeniería. Desde el 2015 estoy inmerso en el campo de la Inteligencia Artificial y Visión Computacional. He utilizado diversas herramientas ligadas al campo de el Aprendizaje Profundo, desde Matlab y Octave hasta Theano, Tensorflow y Pytorch. He trabajado tanto en el campo del Procesamiento del Lenguaje Natural, como en el área de Visión Computacional. Mi más reciente proyecto implica la generación de iluminación uniforme o ambiental en una imagen con iluminación del flash de la cámara. Todo esto utilizando modelos generativos. Este proyecto es el tema de mi tesis de maestría, la cual vengo cursando desde el año pasado en la Universidad Católica San Pablo(Arequipa).",
+      "speaker_session": "Conditional GANs como una solución de propósito general para trasladar imágenes de un dominio a otro",
+      "fb_url": "https://facebook.com/#",
+      "github_url": "https://github.com/#",
+      "linkedin_url": "https://www.linkedin.com/in/prajyotm/",
+      "twitter_url": "https://twitter.com/prajyotm"
+    },
+    {
+      "speaker_image": "https://gdgcusco.com/img/speakers/jefferson.jpg",
+      "speaker_name": "Jefferson Quispe Pinares",
+      "speaker_desc": "Soy bachiller en Ingeniería Electrónica, egresado de la Universidad Nacional de Ingeniería. Desde el 2015 estoy inmerso en el campo de la Inteligencia Artificial y Visión Computacional. He utilizado diversas herramientas ligadas al campo de el Aprendizaje Profundo, desde Matlab y Octave hasta Theano, Tensorflow y Pytorch. He trabajado tanto en el campo del Procesamiento del Lenguaje Natural, como en el área de Visión Computacional. Mi más reciente proyecto implica la generación de iluminación uniforme o ambiental en una imagen con iluminación del flash de la cámara. Todo esto utilizando modelos generativos. Este proyecto es el tema de mi tesis de maestría, la cual vengo cursando desde el año pasado en la Universidad Católica San Pablo(Arequipa).",
+      "speaker_session": "Conditional GANs como una solución de propósito general para trasladar imágenes de un dominio a otro",
+      "fb_url": "https://www.facebook.com/jdjaldeep",
+      "github_url": "https://github.com/JaldeepAsodariya",
+      "linkedin_url": "https://www.linkedin.com/in/jaldeepasodariya/",
+      "twitter_url": "https://twitter.com/JaldeepAsodariy"
+    },
+    {
+      "speaker_image": "https://gdgcusco.com/img/speakers/joel.jpg",
+      "speaker_name": "Joel Humberto Gómez Paredes",
+      "speaker_desc": "Application Developer en IBM, Full Snack JS Developer, Google Developer Expert en Web Technologies, Google Developer Expert en Google Maps Platform y maestro pokemon amante de los tacos",
+      "speaker_session": "CSS Architecture to look like a scientist",
+      "fb_url": "https://www.facebook.com/jdjaldeep",
+      "github_url": "https://github.com/JaldeepAsodariya",
+      "linkedin_url": "https://www.linkedin.com/in/jaldeepasodariya/",
+      "twitter_url": "https://twitter.com/JaldeepAsodariy"
+    },
+    {
+      "speaker_image": "https://gdgcusco.com/img/speakers/milton.jpg",
+      "speaker_name": "Milton Yarleque",
+      "speaker_desc": "Organizador GDG Lima",
+      "speaker_session": "",
+      "fb_url": "https://www.facebook.com/chiragnayyar",
+      "github_url": "https://github.com/chiragnayyar",
+      "linkedin_url": "https://www.linkedin.com/in/chiragnayyar/",
+      "twitter_url": "https://twitter.com/chiragnayyar"
+    },
+    {
+      "speaker_image": "https://gdgcusco.com/img/speakers/milton.jpg",
+      "speaker_name": "Milton Yarleque",
+      "speaker_desc": "Organizador GDG Lima",
+      "speaker_session": "",
+      "fb_url": "https://www.facebook.com/chiragnayyar",
+      "github_url": "https://github.com/chiragnayyar",
+      "linkedin_url": "https://www.linkedin.com/in/chiragnayyar/",
+      "twitter_url": "https://twitter.com/chiragnayyar"
+    },
+    {
+      "speaker_image": "https://gdgcusco.com/img/speakers/milton.jpg",
+      "speaker_name": "Milton Yarleque",
+      "speaker_desc": "Organizador GDG Lima",
+      "speaker_session": "",
+      "fb_url": "https://www.facebook.com/chiragnayyar",
+      "github_url": "https://github.com/chiragnayyar",
+      "linkedin_url": "https://www.linkedin.com/in/chiragnayyar/",
+      "twitter_url": "https://twitter.com/chiragnayyar"
     }
   ]
 }
