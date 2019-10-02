@@ -1,84 +1,65 @@
 {
   "speakers": [
     {
-      "speaker_image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
-      "speaker_name": "Pawan Kumar",
-      "speaker_desc": "Google Developer Expert, Flutter",
-      "speaker_session": "Talk: Getting Started With Flutter For Web",
+      "speaker_image": "https://gdgcusco.com/img/speakers/frankmoreno.jpg",
+      "speaker_name": "Frank Andre Moreno Vera",
+      "speaker_desc": "Estudié Ing. Electrónica en la UNI y mi aventura en el código comenzó a los 8 años. Mi campo principal es el Internet de las Cosas (IoT), lo que me ha llevado a proyectos con Go, Node.js, Flutter, GraphQL, etc.",
+      "speaker_session": "Flutter: Evolución y tendencias",
+      "fb_url": "https://facebook.com/kranfix",
+      "github_url": "https://github.com/kranfix",
+      "linkedin_url": "https://linkedin.com/in/kranfix",
+      "twitter_url": "https://twitter.com/kranfix"
+    },
+    {
+      "speaker_image": "https://gdgcusco.com/img/speakers/eduardo.png",
+      "speaker_name": "Luis Eduardo Telaya",
+      "speaker_desc": "Eduardo es una entusiasta del hackathon que ha trabajado como desarrolladores senior y líder técnico en proyectos de Drupal para algunas de las organizaciones más reconocidas, incluidas la NCAA, el Banco Mundial y los Servicios de Combustible Mundial.",
+      "speaker_session": "Desarrollando aplicaciones con GCP/ Kotlin para backends/ Explorando bots con DialogFlow",
+      "fb_url": "https://facebook.com/edutrul",
+      "github_url": "https://github.com/edutrul",
+      "linkedin_url": "https://linkedin.com/in/edutrul",
+      "twitter_url": "https://twitter.com/edutrul" 
+    },
+    {
+      "speaker_image": "https://secure.meetupstatic.com/photos/member/2/b/a/9/member_293051177.jpeg",
+      "speaker_name": "Pierre Guillen Uribe",
+      "speaker_desc": "Flutter Developer en Renting SAC, Coorganizador de Hacker Dome",
+      "speaker_session": "Talk: Lo fácil de hacer Charts con Flutter",
+      "fb_url": "https://facebook.com/cerberodev",
+      "github_url": "https://github.com/cerberodev",
+      "linkedin_url": "https://linkedin.com/in/cerberodev",
+      "twitter_url": "https://twitter.com/cerberodev"        
+    },
+    {
+      "speaker_image": "https://gdgcusco.com/img/speakers/andres.jpg",
+      "speaker_name": "Andres Chavez Crisostomo",
+      "speaker_desc": "Flutter Developer en T-Mobile",
+      "speaker_session": "Talk: Salvando Vidas con Flutter",
+      "fb_url": "https://facebook.com/goandreus",
+      "github_url": "https://github.com/goandreus",
+      "linkedin_url": "https://www.linkedin.com/in/goandreus/",
+      "twitter_url": "https://twitter.com/goandreus"
+    },
+
+    {
+      "speaker_image": "https://gdgcusco.com/img/speakers/juanybabas.jpg",
+      "speaker_name": "Juan Ñahui Pariona",
+      "speaker_desc": "Me apasiona enseñar, trabajo como mentor de robótica para una competencia mundial (FirstGlobal) que se llevará a cabo en Dubái, mi especialización es Machine Learning, viajo por países y ciudades compartiendo un poco de lo que sé, nací en Hack Space Perú, soy director de GDG Arequipa y creé a Babas.",
+      "speaker_session": "Desarrollando Machine Learning con TensorFlow de Google",
       "fb_url": "https://facebook.com/imthepk",
       "github_url": "https://github.com/iampawan",
       "linkedin_url": "https://linkedin.com/in/imthepk",
       "twitter_url": "https://twitter.com/imthepk"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVW9DRktRcllTZDN1T2VINnhiUC11M2pVUFZFLVI0dVh5czF6d2lKNGRwanJjVjJhWm1zSUJZelVkZzBRaG9uRkNJZmhVZEg3ZGpVV0RhRmpQWXFYeHU0Y1ZDRmROb3FQYnVBQ2VKMWdOSFRHS3B0YWxRLk8xa3k2cVpFOG15UFAyRnk",
-      "speaker_name": "Laura Morinigo",
-      "speaker_desc": "Software Developer, DMod Labs",
-      "speaker_session": "How I Became a Mobile Developer with Firebase and Flutter",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXJET043VnFRT2R1UHdyS1lFUElwLVNaYlVVbnc1enJuNTNGbUtQQjR0SF9STVUzMVptdkgzclRpRjhTUDc2WUNvNldKNFVacFhiXzF4bUoxTVc0RzlfXzF3d2tPUXl4NTNSNjBNSzRoaXB1VVBxOTRFLk0yOHMwWm1NeURjaWxQZ1k",
-      "speaker_name": "Jimenez Raul",
-      "speaker_desc": "Software Engineer, Byte Default",
-      "speaker_session": "Angular Elements",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UozlnKuWKqwaGjT2U6ylLLyMtoByOnx-ctrRmn5A8kptjCS50E8EgQDSuxYg8chsldOmSLbHScKX0ERlngHvbRp5XVRyNuAUSIm_Hguq3THTisLLaU.UyKUL3gyFQsEAcmO",
-      "speaker_name": "Sathish V J",
-      "speaker_desc": "Tech Architect, Investor, Tutor",
-      "speaker_session": "Machine Learning and AutoML on GCP",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqZAYU9q0R5K2cq94DxU7ebiOMhilDlx5NzzsWWZ_oHxqcZV8H8j594rg_q_vyfTToA0BfScTHOHAj8uKf2OeF5MVqa_jmdjC9JO9-2TcPWjboxPf8.NN-XmkQxmHl1XyY_",
-      "speaker_name": "Timothy Jordan",
-      "speaker_desc": "Sr. Staff Developer Advocate, Google",
-      "speaker_session": "Top 5 from Firebase Summit '18",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXJ2Zkg0YUY1ZFJoMFFRbWlqdFE4MV9nNTdJR0dxUS1ubVJfbkN2Y1RaS3VoaUp2dWd3ejNmUmJRekFQaU5QNGhqd1F6cUtKQXpYeXJkemVyS2hUY1NzSWloMXFCNzQzdmpRVVVmU0Z4XzJZRDVZQXVBLnFHVllKVmc2MUVzQVZ5bVI",
-      "speaker_name": "Tanay Pant",
-      "speaker_desc": "Web Developer Advocate, Mozilla Foundation",
-      "speaker_session": "Multiplayer Games with WebXR",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqEG002BsGCqZLZRFUGu9xo4IpGamz6gTqlWxWyME0s-n8gR7Rs0tM5R6mPMOCRYf5rAunWx0GQeXDUHPag_XWGApdekw.cks8tPlPy-TeucOT",
-      "speaker_name": "Eric Maxwell",
-      "speaker_desc": "Software Developer, Big Nerd Ranch",
-      "speaker_session": "Mobile Database Persistence",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
-    },
-    {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXBET0RKT0JBV195UjVuSDRKS3JEenphN2gzLW80WEdvenlGdkZhNGREUzFmQUk1RjJnR0N5eEJIdlBkOVhlLUdwalVSWXlxbXJ4VFA0QXRZdnB4WDllWFNpdmdiNy14Q0tLOENCeU41Yks4NF9vUVQ0LlVFY0RBeld0ZTd4OEtSUTg",
-      "speaker_name": "Yohan Totting",
-      "speaker_desc": "Web Developer Advocate, Google",
-      "speaker_session": "Progressive Experience Web Development",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_image": "https://gdgcusco.com/img/speakers/luis.jpg",
+      "speaker_name": "Luis Ernesto Colchado Soncco",
+      "speaker_desc": "Titulado en Ingeniería de Sistemas en la Universidad Andina del Cusco, actualmente estoy haciendo una maestría en Ciencias de la Computación en la Universidad Católica San Pablo de Arequipa en tiempo completo, y financiada por Concytec",
+      "speaker_session": "Generative Adversarial Networks con Pytorch",
+      "fb_url": "https://facebook.com/pareshmayani",
+      "github_url": "https://github.com/pareshmayani",
+      "linkedin_url": "https://www.linkedin.com/in/pareshmayani/",
+      "twitter_url": "https://twitter.com/pareshmayani"
     }
   ]
 }

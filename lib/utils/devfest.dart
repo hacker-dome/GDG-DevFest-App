@@ -37,9 +37,9 @@ class Devfest {
   static const String banner_dark = "assets/images/banner_dark.png";
 
   //*  Texts
-  static const String welcomeText = "Welcome to GDG DevFest";
+  static const String welcomeText = "GDG DevFest Cusco 2019";
   static const String descText =
-      '''DevFests are community-led, developer events hosted by GDG chapters around the globe focused on community building & learning about Google’s technologies. Each DevFest is inspired by and uniquely tailored to the needs of the developer community and region that hosts it.''';
+      '''Google Developers Group Cusco es una iniciativa para concentrar los esfuerzos de muchos desarrolladores en Cusco y sus alrededores para aprender, compartir y ser productivos utilizando los diversos productos de Google''';
 
   static const String loading_text = "Loading...";
   static const String try_again_text = "Try Again";
