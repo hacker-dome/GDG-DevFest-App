@@ -82,7 +82,7 @@
       "twitter_url": "https://twitter.com/JaldeepAsodariy"
     },
     {
-      "speaker_image": "https://gdgcusco.com/img/speakers/joel.jpg",
+      "speaker_image": "https://gdgcusco.com/img/speakers/joel.png",
       "speaker_name": "Joel Humberto Gómez Paredes",
       "speaker_desc": "Application Developer en IBM, Full Snack JS Developer, Google Developer Expert en Web Technologies, Google Developer Expert en Google Maps Platform y maestro pokemon amante de los tacos",
       "speaker_session": "CSS Architecture to look like a scientist",
@@ -90,26 +90,6 @@
       "github_url": "https://github.com/#",
       "linkedin_url": "https://www.linkedin.com/in/rushabhvasa/",
       "twitter_url": "https://twitter.com/rushabh69"
-    },
-    {
-      "speaker_image": "https://gdgcusco.com/img/speakers/milton.jpg",
-      "speaker_name": "Milton Yarleque",
-      "speaker_desc": "Organizador GDG Lima",
-      "speaker_session": "",
-      "fb_url": "https://www.facebook.com/chiragnayyar",
-      "github_url": "https://github.com/chiragnayyar",
-      "linkedin_url": "https://www.linkedin.com/in/chiragnayyar/",
-      "twitter_url": "https://twitter.com/chiragnayyar"
-    },
-    {
-      "speaker_image": "https://gdgcusco.com/img/speakers/milton.jpg",
-      "speaker_name": "Milton Yarleque",
-      "speaker_desc": "Organizador GDG Lima",
-      "speaker_session": "",
-      "fb_url": "https://www.facebook.com/chiragnayyar",
-      "github_url": "https://github.com/chiragnayyar",
-      "linkedin_url": "https://www.linkedin.com/in/chiragnayyar/",
-      "twitter_url": "https://twitter.com/chiragnayyar"
     },
     {
       "speaker_image": "https://gdgcusco.com/img/speakers/milton.jpg",
