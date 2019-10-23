@@ -23,6 +23,7 @@
 ## Overview
 
 DevFest Mobile application is for all the GDG Devfests around the world. You can see the agenda in the app as well as the speakers and other updates regarding the devfest.
+Esta Version es para el GDG ICA
 
 ## Technology Stack
 

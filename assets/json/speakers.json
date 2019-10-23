@@ -46,10 +46,10 @@
       "speaker_name": "Juan Ñahui Pariona",
       "speaker_desc": "Me apasiona enseñar, trabajo como mentor de robótica para una competencia mundial (FirstGlobal) que se llevará a cabo en Dubái, mi especialización es Machine Learning, viajo por países y ciudades compartiendo un poco de lo que sé, nací en Hack Space Perú, soy director de GDG Arequipa y creé a Babas.",
       "speaker_session": "Desarrollando Machine Learning con TensorFlow de Google",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "fb_url": "https://facebook.com/juanybabas",
+      "github_url": "https://github.com/juanybabas",
+      "linkedin_url": "https://linkedin.com/juanybabas/imthepk",
+      "twitter_url": "https://twitter.com/juanybabas"
     },
     {
       "speaker_image": "https://gdgcusco.com/img/speakers/luis.jpg",
@@ -74,7 +74,7 @@
     {
       "speaker_image": "https://gdgcusco.com/img/speakers/jefferson.jpg",
       "speaker_name": "Jefferson Quispe Pinares",
-      "speaker_desc": "Soy bachiller en Ingeniería Electrónica, egresado de la Universidad Nacional de Ingeniería. Desde el 2015 estoy inmerso en el campo de la Inteligencia Artificial y Visión Computacional. He utilizado diversas herramientas ligadas al campo de el Aprendizaje Profundo, desde Matlab y Octave hasta Theano, Tensorflow y Pytorch. He trabajado tanto en el campo del Procesamiento del Lenguaje Natural, como en el área de Visión Computacional. Mi más reciente proyecto implica la generación de iluminación uniforme o ambiental en una imagen con iluminación del flash de la cámara. Todo esto utilizando modelos generativos. Este proyecto es el tema de mi tesis de maestría, la cual vengo cursando desde el año pasado en la Universidad Católica San Pablo(Arequipa).",
+      "speaker_desc": "Estudiante de Maestría en Ciencia de la Computación becado por CONCYTEC, interesado en procesos de automatización con Machine Learning, tengo más de tres años de experiencia en desarrollo y supervisión de tecnologías de la información, especialista en bases de datos y gestión de información con conocimiento en Business Analytics y Machine Learning.",
       "speaker_session": "Conditional GANs como una solución de propósito general para trasladar imágenes de un dominio a otro",
       "fb_url": "https://www.facebook.com/jdjaldeep",
       "github_url": "https://github.com/JaldeepAsodariya",
@@ -82,34 +82,14 @@
       "twitter_url": "https://twitter.com/JaldeepAsodariy"
     },
     {
-      "speaker_image": "https://gdgcusco.com/img/speakers/joel.jpg",
+      "speaker_image": "https://gdgcusco.com/img/speakers/joel.png",
       "speaker_name": "Joel Humberto Gómez Paredes",
       "speaker_desc": "Application Developer en IBM, Full Snack JS Developer, Google Developer Expert en Web Technologies, Google Developer Expert en Google Maps Platform y maestro pokemon amante de los tacos",
       "speaker_session": "CSS Architecture to look like a scientist",
-      "fb_url": "https://www.facebook.com/jdjaldeep",
-      "github_url": "https://github.com/JaldeepAsodariya",
-      "linkedin_url": "https://www.linkedin.com/in/jaldeepasodariya/",
-      "twitter_url": "https://twitter.com/JaldeepAsodariy"
-    },
-    {
-      "speaker_image": "https://gdgcusco.com/img/speakers/milton.jpg",
-      "speaker_name": "Milton Yarleque",
-      "speaker_desc": "Organizador GDG Lima",
-      "speaker_session": "",
-      "fb_url": "https://www.facebook.com/chiragnayyar",
-      "github_url": "https://github.com/chiragnayyar",
-      "linkedin_url": "https://www.linkedin.com/in/chiragnayyar/",
-      "twitter_url": "https://twitter.com/chiragnayyar"
-    },
-    {
-      "speaker_image": "https://gdgcusco.com/img/speakers/milton.jpg",
-      "speaker_name": "Milton Yarleque",
-      "speaker_desc": "Organizador GDG Lima",
-      "speaker_session": "",
-      "fb_url": "https://www.facebook.com/chiragnayyar",
-      "github_url": "https://github.com/chiragnayyar",
-      "linkedin_url": "https://www.linkedin.com/in/chiragnayyar/",
-      "twitter_url": "https://twitter.com/chiragnayyar"
+      "fb_url": "https://www.facebook.com/#",
+      "github_url": "https://github.com/#",
+      "linkedin_url": "https://www.linkedin.com/in/rushabhvasa/",
+      "twitter_url": "https://twitter.com/rushabh69"
     },
     {
       "speaker_image": "https://gdgcusco.com/img/speakers/milton.jpg",
